@@ -1,3 +1,10 @@
+DEAD CODE
+=========
+This was once useful, but as freegeoip.net is dead and the code hasn't been updated for years, 
+it's most likely interesting as a snapshot of PHP code in time (even some time ago).
+
+Please do not use for any real pratical, serious or production-like uses.
+
 IP Info
 =======
 Simple utility to display public information retrieved from the ip number of a visitor.
